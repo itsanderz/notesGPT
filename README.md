@@ -59,3 +59,4 @@ You can deploy this template by setting up the following services and adding the
 - [ ] Account for layout shift on the dashboard page when refreshing – show a loading state on content?
 - [ ] Make action items animate out + make checkbox rounded + add a little check icon on hover
 - [ ] Migrate to incredibly fast whisper
+# notesappai
