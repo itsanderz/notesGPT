@@ -61,3 +61,4 @@ You can deploy this template by setting up the following services and adding the
 - [ ] Migrate to incredibly fast whisper
 # notesappai
 # notesappai
+# notesappai
