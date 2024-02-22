@@ -62,3 +62,4 @@ You can deploy this template by setting up the following services and adding the
 # notesappai
 # notesappai
 # notesappai
+# notesappai
